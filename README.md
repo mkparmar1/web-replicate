@@ -2,8 +2,6 @@
 
 A powerful Laravel application that allows you to download and archive websites for offline viewing. WebReplicate crawls websites and downloads HTML, CSS, JavaScript, images, and various file types including PDFs, DOCs, ZIPs, videos, and audio files.
 
-![WebReplicate Screenshot](screenshot.png)
-
 ## Features
 
 -   **Multi-file type support**: Download HTML, CSS, JS, images, GIFs, PDFs, DOCs, ZIPs, videos, and audio files
